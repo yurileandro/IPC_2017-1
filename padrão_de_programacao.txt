@@ -32,7 +32,7 @@ lista02/
 
 3) Nomes de variáveis: lower_case_with_underscores
 
-4) Nomes de variáveis: lower_case_with_underscores. A primeira palavra tem de ser um verbo
+4) Nomes de funçoes: lower_case_with_underscores. A primeira palavra tem de ser um verbo
 ex: write_something(x)
 
 5) Nomes de classes: CapitalizedWords/CamelCase
