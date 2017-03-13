@@ -15,13 +15,13 @@
 
 import turtle
 
-quantidade_lados = 6
+sides = 6
 
-cores = ['orange', 'green', 'purple', 'blue', 'red', 'brown']
+colors = ['orange', 'green', 'purple', 'blue', 'red', 'brown']
 
 p = turtle.Pen()
 
-for x in range(quantidade_lados):
-    p.pencolor(cores[x])
+for x in range(sides):
+    p.pencolor(colors[x])
     p.forward(80)
-    p.left(360 / quantidade_lados)
+    p.left(360 / sides)

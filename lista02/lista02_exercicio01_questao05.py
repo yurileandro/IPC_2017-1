@@ -14,6 +14,6 @@
 # ----------------------------------------------------------
 
 
-metros = input('Digite a medida (em metros): ')
-centimetros = int(metros) * 100
-print (metros, 'metros são', centimetros, 'centímetros')
+size_in_meters = input('Digite a medida (em metros): ')
+size_in_centimeters = int(size_in_meters) * 100
+print (size_in_meters, 'metros são', size_in_centimeters, 'centímetros')

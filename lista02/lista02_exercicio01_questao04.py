@@ -13,11 +13,11 @@
 # 1.4 - Faça um Programa que peça as 4 notas bimestrais e mostre a média
 # ----------------------------------------------------------
 
-nota_1 = input('Informe a sua nota do primeiro bimestre:')
-nota_2 = input('Informe a sua nota do segundo bimestre:')
-nota_3 = input('Informe a sua nota do terceiro bimestre:')
-nota_4 = input('Informe a sua nota do quarto bimestre:')
+result_1 = input('Informe a sua nota do primeiro bimestre:')
+result_2 = input('Informe a sua nota do segundo bimestre:')
+result_3 = input('Informe a sua nota do terceiro bimestre:')
+result_4 = input('Informe a sua nota do quarto bimestre:')
 
-media = (int(nota_1) + int(nota_2) + int(nota_3) + int(nota_4))/4
+average = (int(result_1) + int(result_2) + int(result_3) + int(result_4))/4
 
-print ('Média dos quatro bimestres:', media)
+print ('Média dos quatro bimestres:', average)
