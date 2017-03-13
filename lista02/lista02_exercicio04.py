@@ -25,3 +25,5 @@ for x in range(sides):
     p.pencolor(colors[x])
     p.forward(80)
     p.left(360 / sides)
+
+turtle.mainloop()
