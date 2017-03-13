@@ -7,7 +7,7 @@
 # Frederico Victor Alfaia Rodrigues         1515200030
 # Joelson Pereira Lima	                    1715310060
 # Lucas Gabriel Silveira Duarte             1715310053
-# Reinaldo da Silva Vargas	                1715310054
+# Reinaldo da Silva Vargas	            1715310054
 #
 # 1 - Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 # ----------------------------------------------------------
