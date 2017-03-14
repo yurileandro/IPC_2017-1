@@ -18,3 +18,7 @@ colors=['red', 'purple', 'blue','green', 'yellow'] #cria um vetor de 5 posiçõe
 t=turtle.Pen() # intancia a janela turtle
 turtle.bgcolor('black') # muda a cor doefundo da janela para preto
 for x in range(5): # inicia um laço de 0 até 4 para a criação de cada lado do poligno
+    t.pencolor(colors[x % 5]) # muda a cor do pincel a cada lado criado ultilizando o vetor 'colors'
+    t.forward(150) # o pincel pinta 150 pixels
+    t.left(72) # pincel vira 72 graus para a esquerda
+ext = str(input("Você deseja sair? (S/N)")) # imprime 'Você deseja sair? (S/N)'. Obs: Isso é só pra poder visualizar por mais tempo a forma
