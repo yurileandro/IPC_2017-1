@@ -1,5 +1,6 @@
-﻿#---------------------------------------------------------------------
+#---------------------------------------------------------------------
 #Introdução a Programação dos Computadores - IPC
+#Universidade do Estado do Amazonas - UEA
 #Prof. Jucimar Jr.
 #Adham Lucas da Silva Oliveira           1715310001
 #Enrique Leão Barbosa Izel               1715310048
