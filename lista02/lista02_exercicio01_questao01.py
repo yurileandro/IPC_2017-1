@@ -11,4 +11,4 @@
 #
 # 1 - Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 # ----------------------------------------------------------
-print ('Alo mundo') #o comando pint imprime uma mensagem na tela
+print ('Alo mundo') #o comando print imprime uma mensagem na tela
