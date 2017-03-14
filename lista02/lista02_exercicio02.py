@@ -5,8 +5,10 @@
 #Enrique Leão Barbosa Izel               1715310048
 #Erik Atilio Silva Rey                   1715310059
 #Ulisses Antonio Antonino da Costa       1515090555
+#Guilherme Silva de Oliveira             1715310034
+#
 #Desenhar um polígono com 3 lados iguais. Cada lado uma cor diferente.
-
+#---------------------------------------------------------------------
 import turtle  
 t = turtle.Pen() 
 turtle.bgcolor("purple") 
