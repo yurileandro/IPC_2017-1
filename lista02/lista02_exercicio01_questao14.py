@@ -23,10 +23,12 @@
 # ----------------------------------------------------------
 
 weight = float(input("Digite o peso: "))
-
-if weight > 50.00:
-	excess = weight - 50
-	mulct   = excess * 4
+limp = 50.00
+excess = float (weight - limp)
+if weight > limp:
+	mulct   = (excess * 4)
+	print ("excesso foi de ", excess)
+	print ("a multa foi", mulct)
 else:
-	excess = "ZERO"
-	mulct = "ZERO"
+	print ("Excesso = ZERO")
+	print ("Multa = ZERO")
