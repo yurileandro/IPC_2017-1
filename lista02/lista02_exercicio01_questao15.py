@@ -1,8 +1,13 @@
 #---------------------------------------------------------------------
 #Introdução a Programação dos Computadores - IPC
 #Prof. Jucimar Jr.
-#Adham Lucas da Silva Oliveira     1715310001
-#Erik Atilio Silva Rey             1715310059
+#Adham Lucas da Silva Oliveira       1715310001
+#Erik Atilio Silva Rey               1715310059
+#Enrique Leão Barbosa Izel           1715310048
+#Ulisses Antonio  Antonino da Costa  1515090555
+#Lukas Michel Souza Mota             1715310018
+#Guilherme Silva de Oliveira         1715310034
+#
 #Faça um Programa que pergunte quanto você ganha por hora
 # e o número de horas trabalhadas no mês.
 #Calcule e mostre o total do seu salário no referido mês,
